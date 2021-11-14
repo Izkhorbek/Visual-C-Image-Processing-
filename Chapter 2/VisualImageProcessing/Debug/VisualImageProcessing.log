@@ -1,0 +1,4 @@
+﻿  VisualImageProcessingDlg.cpp
+c:\github project\visual-c-image-processing-\chapter 2\visualimageprocessing\visualimageprocessing\visualimageprocessingdlg.cpp(102): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  VisualImageProcessing.vcxproj -> C:\Github Project\Visual-C-Image-Processing-\Chapter 2\VisualImageProcessing\Debug\VisualImageProcessing.exe
+  VisualImageProcessing.vcxproj -> C:\Github Project\Visual-C-Image-Processing-\Chapter 2\VisualImageProcessing\Debug\VisualImageProcessing.pdb (Partial PDB)
