@@ -1,0 +1,61 @@
+﻿  ThicknessServerDlg.cpp
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(22): warning C4005: 'WM_TIMER_IO_STATUS': 매크로 재정의
+  c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\global.h(46): note: 'WM_TIMER_IO_STATUS'의 이전 정의를 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(984): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1055): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1558): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1521): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1527): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1541): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1879): warning C4101: 'dwAxisStatus' :참조되지 않은 지역 변수입니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1881): warning C4101: 'lIncPos' :참조되지 않은 지역 변수입니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1879): warning C4101: 'dwInput' :참조되지 않은 지역 변수입니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1880): warning C4101: 'stAxisStatus' :참조되지 않은 지역 변수입니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(1927): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(2055): warning C4244: '초기화 중': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(2071): warning C4244: '초기화 중': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(2090): warning C4244: '초기화 중': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(2174): warning C4244: '초기화 중': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(2257): warning C4244: '초기화 중': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3162): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3163): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3164): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3165): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3166): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3167): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3168): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3170): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3171): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3172): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3173): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3174): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3175): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\thicknessserverdlg.cpp(3181): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+  KeyenceSenser.cpp
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\keyencesenser.cpp(136): warning C4800: 'bool *': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\keyencesenser.cpp(184): warning C4244: '초기화 중': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\projects\nnd 두께측정기 자료\[46] ui정리\thicknessserver\keyencesenser.cpp(286): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  ThicknessServer.vcxproj -> C:\Projects\NND 두께측정기 자료\[46] UI정리\Debug\ThicknessServer.exe
+  ThicknessServer.vcxproj -> C:\Projects\NND 두께측정기 자료\[46] UI정리\Debug\ThicknessServer.pdb (Full PDB)
